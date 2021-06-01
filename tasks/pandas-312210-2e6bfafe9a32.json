@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pandas-312210",
+  "private_key_id": "2e6bfafe9a328d84ac271e9dae425d1f335d2d9a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTzC1yittOG6a0\nEX5ZKwsXVnlhXcDH4p2S7iS/9AIflEKTZYH+nBnObygYJJyPKZxAlilDRRTBfVie\nErxt+fRGur3q9d6vd+qLMIEuVoWILRFbk32HsuOl6hh6FaeZ161zknJF78hfo3Tn\nH821ACIiCK+G3wpMmhQnvsi1Ryny7StEs/SzCTCMATgd4HzaPFa7rMBrUljnD8yE\nnrRFAT+p2ry4jP5I6tI6S5xzgmgezfkiPXNiVIdnGdDrbG+8bOyroxc+werKalo8\ntfl8gQjh/csbeVxhHNrMEUcuqoK/Yo3bmWmB2jBIVJIUjJ5v5NXfQnpF9yLaF+1I\niE8mIYe7AgMBAAECggEAELiUWbWg+xTAxvWFtGPcxN6pK91V/qdCSYm8yaS7CsSU\nxaVB0ELr3oGP6S9XMRE1ls8GSxCJORzLxlJ7U/vn6YqeCvOXJoXsGKQ7sTjjsZTb\ntl8Y4B3aiH5UF5fUluCiRIWIfSYUJtHQ24crGDO0KOKPrTQVr7Xs2tRIU84BznRf\noB8xSTu5WfgXIKIhNAitsqVlpdKMU9k8ni8siiD7H8+Jo1nFmsbUckgHq0VeTXjK\nOac3GDvGVjpG5gWhzM4GVeLGqV+pC0woZpasdw0rS2w+6YXU4cknE82ccO9j2A9o\niQRuWUMorHnmEQRskEYdVaoi0fj56FysYO7rmR9Q+QKBgQDF9V/Hh+CXvC7CMoVM\nHHzG0Mq0WrZDi6RTSnrUpdq8CYBKCBbkB8vrCj6u3sdFbXa/qZLDBZzpNfWpNlvX\nhqE4fOpf1xRLIweTjdzelUzOQ99AXIGYDK1wNTKQWTk3wZ5I1WAcPV1MoxsUIoer\n4cYnOJflSzenl8x4OybwFo2wmQKBgQC/IcJw/9OxNzcNMQFkNxjo7xv5IvQ5vBw8\nQVifejkh+WAcuJh1Wh7X9R0j4afd8BcZ5f+VBMOuw8pdCoSYDpREGAiTWov/S4Cv\n1b125HRZzz/vatE4ix/sPVFepn3iuL0VsMDpOBM9L7WqqSIetVGsvg8xqLOkk3b8\nxiQVvc2rcwKBgBfIrWNJvgA9CdknPMCyQ4OXnmMg6vkek/W14yAddTRWZ+V9J1Lq\nZOOubW2RMpvy1OueMhXgXMPgSc20zEAO2tvwljBBpRyJ7uUZjEnp4jp+CRqwgpmE\nHGp42cRiE+/RAXV6vXtnHAiTKDO5GlfaXnZj5EwWR2+JW3WulbUO4KMxAoGAGiDE\nUuw2BTDWHsCHPyrlBdrCCTHFDytu9LG+KrbrnoBXqjV16fzy4HTKkgAkEYvjrI+r\ne7SWB4sOW9+3No4vqItciMBFCRZKNj9S0jDy0uApDlKc3UzvhTzwpa6+4MJ+Xru1\n82vN/XxLKlRKrMX+r02gCBrWy/W4u19eyXYT6o8CgYEApQeOXRO5ZJ/qkkGBLh46\nRufkfU9VZQ1TAshnB5g6p4YyT9WuSix29uYb8A4XPfXAR+VYPQoCuNPgYmSP6I6L\n3N2W7CwS43vzxkWnOf7SMb2QLrN13J9Afi6g1oJxu5BpZlBKJD7JgOwGNrZBvwyi\nxsDsTf+77jrCuySfIzrTjBE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "access-bq-flask-app@pandas-312210.iam.gserviceaccount.com",
+  "client_id": "111981595556561448908",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/access-bq-flask-app%40pandas-312210.iam.gserviceaccount.com"
+}
